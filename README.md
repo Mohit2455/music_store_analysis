@@ -68,7 +68,7 @@ The database follows a music store structure with the following tables:
 
 **How the tables connect:** `artist → album → track → invoice_line → invoice → customer`. The `track` table also links to `genre` and `media_type`, and `customer` is linked to `employee` through a support representative.
 
-> 📸 Add the schema diagram here: `![Database Schema](images/MusicDatabaseSchema.png)`
+> ![Dashboard](<Screenshot (166).png>)
 
 ---
 
